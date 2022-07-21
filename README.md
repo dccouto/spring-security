@@ -1,3 +1,4 @@
+# Em construção
 # JpaSpecification
 Projeto de estudo do JpaSpecification com Metamodel
 
